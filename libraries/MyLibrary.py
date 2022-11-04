@@ -6,4 +6,6 @@ class MyLibrary:
 
     def example_python_keyword(self):
         logger.info("This is Python!")
-        logger.info(f"... and today is {variables.TODAY}")
+        logger.info(f"... and today is {variables.TODAY}")   
+    
+        

@@ -5,6 +5,6 @@ Resource        locators.resource
 Variables       variables
 ########################################
 Library         Collections
-Library         MyLibrary
+Library         SavePDFFile
 Library         RPA.Browser.Selenium
 Library         OperatingSystem
